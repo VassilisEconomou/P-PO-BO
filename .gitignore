@@ -1,1 +1,2 @@
-"Mass Mailer.exe"
+*.exe
+.DS_Store
