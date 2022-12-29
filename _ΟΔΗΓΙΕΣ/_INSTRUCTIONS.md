@@ -5,6 +5,12 @@ cd \\Mac\Home\Desktop\P-PO-BO
 conda activate mailer
 pyinstaller -F --hiddenimport xlrd -w -i mail.ico --add-data "Logo.png;." -n "Mass Mailer" send_emails_gui.py
 
+# Βήματα για ενημέρωση github
+Τερματικο.app
+cd ~/Desktop/P-PO-BO
+git add *
+git commit -m "αριθμός"
+git push
 
 
 
