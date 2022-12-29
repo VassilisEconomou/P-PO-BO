@@ -13,7 +13,6 @@ git commit -m "αριθμός"
 git push
 
 
-
 # Instructions to BUILD Mass Mailer
 
 A full guide to build the mass mailer application using conda in various systems.
