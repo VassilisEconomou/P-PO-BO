@@ -11,6 +11,8 @@ cd ~/Desktop/P-PO-BO
 git add *
 git commit -m "αριθμός"
 git push
+# για συγχρονισμό από πάνω προς τον Η/Υ
+git pull
 
 
 # Instructions to BUILD Mass Mailer
